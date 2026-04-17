@@ -15,7 +15,7 @@ public:
 
     virtual void BoasVindas() {
         std::cout <<"\n... " << nome << " ..." << std::endl;
-        std::cout << "Converse com " << responsavel << " para fazer sua reserva." << std::endl;
+        std::cout << "Converse com " << responsavel << " para mais informacoes." << std::endl;
     }
 
     virtual ~Estabelecimento() {}
