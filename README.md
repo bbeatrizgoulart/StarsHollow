@@ -8,7 +8,7 @@ O sistema simula a gestão da cidade de Stars Hollow (da série *Gilmore Girls*)
 
 ### Estabelecimentos Planejados: 
 - [x] **Independence Inn**: Gestão de hóspedes e check-in. 
-- [ ] **Luke's Diner**: Sistema de pedidos e fila. 
+- [x] **Luke's Diner**: Sistema de pedidos e fila. 
 - [ ] **Doose's Market**: Inventário e estoque. 
 - [ ] **Kim's Antiques**: Catálogo de itens únicos. 
 - [ ] **Miss Patty’s**: Agenda de aulas e alunos. 
